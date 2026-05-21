@@ -2,17 +2,21 @@
 
 - type: github
   icon: "fab fa-github"
+  nouse: true
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  nouse: true
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+  nouse: true
 
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+  nouse: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
