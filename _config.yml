@@ -1,6 +1,6 @@
 # The Site Configuration
 
-theme: minima
+theme: jekyll-theme-chirpy
 baseurl: ""
 lang: en
 timezone: Asia/Kolkata
