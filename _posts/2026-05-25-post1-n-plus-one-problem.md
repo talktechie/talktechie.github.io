@@ -1,3 +1,12 @@
+---
+layout: post
+title: "I Wrote Raw SQL for Years. Then JPA Surprised Me."
+date: 2026-05-25 00:00:00 +0000
+categories: [Spring Data JPA, Kotlin]
+tags: [jpa, kotlin, spring-boot, n+1, hibernate]
+author: talktechie
+---
+
 # I Wrote Raw SQL for Years. Then JPA Surprised Me.
 
 **Series:** Spring Data JPA with Kotlin — Errors and Fixes · Post 1  
