@@ -15,7 +15,6 @@ url: "https://talktechie.com"
 
 author:
   name: TalkTechie
-  email: your@email.com
   url: "https://talktechie.com"
 
 github:
@@ -23,7 +22,6 @@ github:
 
 social:
   name: TalkTechie
-  email: your@email.com
   links:
     - https://github.com/talktechie
 
