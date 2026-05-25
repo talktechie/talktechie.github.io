@@ -2,8 +2,8 @@
 layout: post
 title: "I Wrote Raw SQL for Years. Then JPA Surprised Me."
 date: 2026-05-25 00:00:00 +0000
-# categories: [Spring Data JPA, Kotlin]
-# tags: [jpa, kotlin, spring-boot, n+1, hibernate]
+categories: [Spring Data JPA, Kotlin]
+tags: [jpa, kotlin, spring-boot, n+1, hibernate]
 author: talktechie
 ---
 
@@ -17,7 +17,7 @@ This is the first thing that caught me off guard.
 
 ---
 
-## The Setup (Table Names Used Here)
+## The Setup (Table Names Changed Here)
 
 I had an `Orders` entity with a `@ManyToOne` relationship to a `Customer`. I needed the customer name whenever I fetched orders. In raw SQL, I'd just write a JOIN. Simple.
 
