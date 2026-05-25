@@ -7,13 +7,6 @@ tags: [jpa, kotlin, spring-boot, n+1, hibernate]
 author: talktechie
 ---
 
-# I Wrote Raw SQL for Years. Then JPA Surprised Me.
-
-**Series:** Spring Data JPA with Kotlin — Errors and Fixes · Post 1  
-**Author:** 6 years in software · recently humbled by an ORM
-
----
-
 For most of my career, I wrote raw SQL. Not because I was stubborn about it — I just understood it. I knew exactly what was hitting the database. I could read the query, predict the result, and tune it when something was slow. There was no mystery.
 
 Then I moved to a project using Spring Data JPA.
