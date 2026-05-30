@@ -6,6 +6,7 @@ tags: [two-sum, hashmap, easy, leetcode, leetcode-1, arrays]
 leetcode_number: 1
 leetcode_url: https://leetcode.com/problems/two-sum/
 difficulty: Easy
+permalink: /posts/kotlin-dsa-arrays-two-sum/
 ---
 
 ## Problem Info

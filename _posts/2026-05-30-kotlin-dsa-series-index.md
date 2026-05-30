@@ -4,6 +4,7 @@ date: 2026-05-30
 categories: [Kotlin DSA, Index]
 tags: [kotlin, dsa, series, index]
 pin: true
+permalink: /posts/kotlin-dsa-series-index/
 ---
 
 A complete Data Structures & Algorithms series written in idiomatic Kotlin.
