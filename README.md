@@ -1,3 +1,12 @@
+# TalkTechie
+
+A tech blog covering Spring Boot, Kotlin, AI/ML concepts and practical tips for engineers.
+
+🌐 [talktechie.com](https://talktechie.com)
+
+> Blog content (posts/) © 2026 TalkTechie — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+> Built with the Chirpy theme (MIT License)
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
