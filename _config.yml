@@ -20,10 +20,10 @@ author:
 # github:
 #   username: talktechie
 
-# social:
-#   name: TalkTechie
-#   links:
-#     - https://github.com/talktechie
+social:
+  name: TalkTechie
+  links:
+    - https://github.com/talktechie
 
 google_analytics:
   id: ""
