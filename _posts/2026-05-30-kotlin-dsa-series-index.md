@@ -19,8 +19,8 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 | [#1](https://leetcode.com/problems/two-sum/) | Two Sum | Easy | [Read →](/posts/kotlin-dsa-arrays-two-sum) |
 | [#121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy and Sell Stock | Easy | [Read →](/posts/kotlin-dsa-arrays-best-time-to-buy-sell-stock) |
 | [#217](https://leetcode.com/problems/contains-duplicate/) | Contains Duplicate | Easy | [Read →](/posts/kotlin-dsa-arrays-contains-duplicate) |
-| [#238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | Medium | *Coming Soon* |
-| [#53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | Medium | *Coming Soon* |
+| [#238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | Medium | [Read →](/posts/kotlin-dsa-arrays-product-except-self/) |
+| [#53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | Medium | [Read →](/posts/kotlin-dsa-arrays-maximum-subarray/) |
 
 ---
 
