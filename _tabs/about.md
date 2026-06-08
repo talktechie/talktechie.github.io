@@ -5,7 +5,7 @@ order: 4
 
 ## About TalkTechie
 
-TalkTechie is a tech blog run by a software engineer
+TalkTechie — a place to *talk techie* — is a tech blog run by a software engineer
 with 6 years of experience — documenting real engineering
 discoveries, not just repeating documentation.
 

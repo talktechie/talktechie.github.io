@@ -6,10 +6,10 @@ lang: en
 timezone: Asia/Kolkata
 
 title: TalkTechie
-tagline: Tech made simple — tutorials, tips & insights
+tagline: Talk Techie — Spring Boot, Kotlin, DSA and backend engineering
 description: >-
-  TalkTechie is a tech blog covering Spring Boot, Kotlin,
-  AI/ML concepts and practical tech tips for engineers.
+  TalkTechie (Talk Techie) — a tech blog covering Spring Boot, Kotlin DSA,
+  JPA internals and practical backend engineering for developers.
 
 url: "https://talktechie.com"
 
