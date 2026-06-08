@@ -27,5 +27,4 @@ memory behaviour and production patterns.
 
 ## Connect
 
-- GitHub: [talktechie](https://github.com/talktechie)
 - Website: [talktechie.com](https://talktechie.com)
