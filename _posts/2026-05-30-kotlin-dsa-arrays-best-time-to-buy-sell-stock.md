@@ -7,6 +7,7 @@ leetcode_number: 121
 leetcode_url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 difficulty: Easy
 permalink: /posts/kotlin-dsa-arrays-best-time-to-buy-sell-stock/
+hidden: true
 ---
 
 ## Problem Info

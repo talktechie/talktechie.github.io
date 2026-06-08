@@ -7,6 +7,7 @@ leetcode_number: 53
 leetcode_url: https://leetcode.com/problems/maximum-subarray/
 difficulty: Medium
 permalink: /posts/kotlin-dsa-arrays-maximum-subarray/
+hidden: true
 ---
 
 ## Problem Info

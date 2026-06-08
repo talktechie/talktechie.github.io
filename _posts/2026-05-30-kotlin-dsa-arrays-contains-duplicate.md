@@ -7,6 +7,7 @@ leetcode_number: 217
 leetcode_url: https://leetcode.com/problems/contains-duplicate/
 difficulty: Easy
 permalink: /posts/kotlin-dsa-arrays-contains-duplicate/
+hidden: true
 ---
 
 ## Problem Info
