@@ -7,6 +7,7 @@ leetcode_number: 1
 leetcode_url: https://leetcode.com/problems/two-sum/
 difficulty: Easy
 permalink: /posts/kotlin-dsa-arrays-two-sum/
+hidden: true
 ---
 
 ## Problem Info
