@@ -28,9 +28,9 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
-| [#242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy | *Coming Soon* |
-| [#125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome | Easy | *Coming Soon* |
-| [#3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | Medium | *Coming Soon* |
+| [#242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy | [Read →](/posts/kotlin-dsa-strings-valid-anagram/) |
+| [#125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome | Easy | [Read →](/posts/kotlin-dsa-strings-valid-palindrome/) |
+| [#3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | Medium | [Read →](/posts/kotlin-dsa-strings-longest-substring-without-repeating/) |
 
 ---
 
