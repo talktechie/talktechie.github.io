@@ -38,9 +38,9 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
-| [#206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | Easy | *Coming Soon* |
-| [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | Easy | *Coming Soon* |
-| [#141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | *Coming Soon* |
+| [#206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | Easy | [Read →](/posts/kotlin-dsa-linkedlist-reverse-linked-list/) |
+| [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | Easy | [Read →](/posts/kotlin-dsa-linkedlist-merge-two-sorted-lists/) |
+| [#141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | [Read →](/posts/kotlin-dsa-linkedlist-linked-list-cycle/) |
 
 ---
 
