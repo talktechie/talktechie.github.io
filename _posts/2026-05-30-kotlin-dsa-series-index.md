@@ -48,9 +48,9 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
-| [#226](https://leetcode.com/problems/invert-binary-tree/) | Invert Binary Tree | Easy | *Coming Soon* |
-| [#104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree | Easy | *Coming Soon* |
-| [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree | Medium | *Coming Soon* |
+| [#226](https://leetcode.com/problems/invert-binary-tree/) | Invert Binary Tree | Easy | [Read →](/posts/kotlin-dsa-trees-invert-binary-tree/) |
+| [#104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree | Easy | [Read →](/posts/kotlin-dsa-trees-maximum-depth-binary-tree/) |
+| [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree | Medium | [Read →](/posts/kotlin-dsa-trees-validate-bst/) |
 
 ---
 
@@ -58,8 +58,8 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
-| [#200](https://leetcode.com/problems/number-of-islands/) | Number of Islands | Medium | *Coming Soon* |
-| [#133](https://leetcode.com/problems/clone-graph/) | Clone Graph | Medium | *Coming Soon* |
+| [#200](https://leetcode.com/problems/number-of-islands/) | Number of Islands | Medium | [Read →](/posts/kotlin-dsa-graphs-number-of-islands/) |
+| [#133](https://leetcode.com/problems/clone-graph/) | Clone Graph | Medium | [Read →](/posts/kotlin-dsa-graphs-clone-graph/) |
 
 ---
 
@@ -67,9 +67,9 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
-| [#70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Easy | *Coming Soon* |
-| [#198](https://leetcode.com/problems/house-robber/) | House Robber | Medium | *Coming Soon* |
-| [#322](https://leetcode.com/problems/coin-change/) | Coin Change | Medium | *Coming Soon* |
+| [#70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Easy | [Read →](/posts/kotlin-dsa-dp-climbing-stairs/) |
+| [#198](https://leetcode.com/problems/house-robber/) | House Robber | Medium | [Read →](/posts/kotlin-dsa-dp-house-robber/) |
+| [#322](https://leetcode.com/problems/coin-change/) | Coin Change | Medium | [Read →](/posts/kotlin-dsa-dp-coin-change/) |
 
 ---
 
