@@ -22,6 +22,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 | [#242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy | [Read →](/posts/kotlin-dsa-arrays-valid-anagram/) |
 | [#238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | Medium | [Read →](/posts/kotlin-dsa-arrays-product-except-self/) |
 | [#53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | Medium | [Read →](/posts/kotlin-dsa-arrays-maximum-subarray/) |
+| [#49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium | [Read →](/posts/kotlin-dsa-arrays-group-anagrams/) |
 
 ---
 
