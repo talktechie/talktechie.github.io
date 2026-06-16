@@ -23,6 +23,10 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 | [#238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | Medium | [Read →](/posts/kotlin-dsa-arrays-product-except-self/) |
 | [#53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | Medium | [Read →](/posts/kotlin-dsa-arrays-maximum-subarray/) |
 | [#49](https://leetcode.com/problems/group-anagrams/) | Group Anagrams | Medium | [Read →](/posts/kotlin-dsa-arrays-group-anagrams/) |
+| [#347](https://leetcode.com/problems/top-k-frequent-elements/) | Top K Frequent Elements | Medium | [Read →](/posts/kotlin-dsa-arrays-top-k-frequent-elements/) |
+| [#271](https://leetcode.com/problems/encode-and-decode-strings/) | Encode and Decode Strings | Medium | [Read →](/posts/kotlin-dsa-arrays-encode-decode-strings/) |
+| [#36](https://leetcode.com/problems/valid-sudoku/) | Valid Sudoku | Medium | [Read →](/posts/kotlin-dsa-arrays-valid-sudoku/) |
+| [#128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence | Medium | [Read →](/posts/kotlin-dsa-arrays-longest-consecutive-sequence/) |
 
 ---
 
