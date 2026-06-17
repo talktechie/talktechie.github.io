@@ -12,7 +12,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🟢 Phase 1 — Arrays
+## 🟢 Phase 1 — Arrays & Hashing
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -30,13 +30,15 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔵 Phase 2 — Strings
+## 🟡 Phase 2 — Two Pointers
 
 | LC # | Problem | Difficulty | Post |
-|------|---------|-----------|------|
-| [#242](https://leetcode.com/problems/valid-anagram/) | Valid Anagram | Easy | [Read →](/posts/kotlin-dsa-strings-valid-anagram/) |
-| [#125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome | Easy | [Read →](/posts/kotlin-dsa-strings-valid-palindrome/) |
-| [#3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | Medium | [Read →](/posts/kotlin-dsa-strings-longest-substring-without-repeating/) |
+|------|---------|------------|------|
+| [#125](https://leetcode.com/problems/valid-palindrome/) | Valid Palindrome | Easy | [Read →](/posts/kotlin-dsa-two-pointers-valid-palindrome/) |
+| [#167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Sum II — Input Array Is Sorted | Medium | [Read →](/posts/kotlin-dsa-two-pointers-two-sum-ii/) |
+| [#15](https://leetcode.com/problems/3sum/) | 3Sum | Medium | [Read →](/posts/kotlin-dsa-two-pointers-3sum/) |
+| [#11](https://leetcode.com/problems/container-with-most-water/) | Container With Most Water | Medium | [Read →](/posts/kotlin-dsa-two-pointers-container-with-most-water/) |
+| [#42](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard | [Read →](/posts/kotlin-dsa-two-pointers-trapping-rain-water/) |
 
 ---
 
