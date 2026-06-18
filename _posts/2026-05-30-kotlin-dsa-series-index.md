@@ -42,7 +42,20 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🟠 Phase 3 — Linked List
+## 🟠 Phase 3 — Stack
+
+| LC # | Problem | Difficulty | Post |
+|------|---------|------------|------|
+| [#20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses | Easy | [Read →](/posts/kotlin-dsa-stack-valid-parentheses/) |
+| [#155](https://leetcode.com/problems/min-stack/) | Min Stack | Medium | [Read →](/posts/kotlin-dsa-stack-min-stack/) |
+| [#150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | Medium | [Read →](/posts/kotlin-dsa-stack-evaluate-reverse-polish-notation/) |
+| [#739](https://leetcode.com/problems/daily-temperatures/) | Daily Temperatures | Medium | [Read →](/posts/kotlin-dsa-stack-daily-temperatures/) |
+| [#853](https://leetcode.com/problems/car-fleet/) | Car Fleet | Medium | [Read →](/posts/kotlin-dsa-stack-car-fleet/) |
+| [#84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Largest Rectangle In Histogram | Hard | [Read →](/posts/kotlin-dsa-stack-largest-rectangle-in-histogram/) |
+
+---
+
+## 🟢 Phase 4 — Linked List
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -52,7 +65,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔴 Phase 4 — Trees
+## 🔴 Phase 5 — Trees
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -62,7 +75,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🟣 Phase 5 — Graphs
+## 🟣 Phase 6 — Graphs
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -71,7 +84,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔶 Phase 6 — Dynamic Programming
+## 🔶 Phase 7 — Dynamic Programming
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
