@@ -55,7 +55,21 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🟢 Phase 4 — Linked List
+## 🔵 Phase 4 — Binary Search
+
+| LC # | Problem | Difficulty | Post |
+|------|---------|------------|------|
+| [#704](https://leetcode.com/problems/binary-search/) | Binary Search | Easy | [Read →](/posts/kotlin-dsa-binary-search-binary-search/) |
+| [#74](https://leetcode.com/problems/search-a-2d-matrix/) | Search a 2D Matrix | Medium | [Read →](/posts/kotlin-dsa-binary-search-search-a-2d-matrix/) |
+| [#875](https://leetcode.com/problems/koko-eating-bananas/) | Koko Eating Bananas | Medium | [Read →](/posts/kotlin-dsa-binary-search-koko-eating-bananas/) |
+| [#153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Find Minimum In Rotated Sorted Array | Medium | [Read →](/posts/kotlin-dsa-binary-search-find-minimum-in-rotated-sorted-array/) |
+| [#33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Search In Rotated Sorted Array | Medium | [Read →](/posts/kotlin-dsa-binary-search-search-in-rotated-sorted-array/) |
+| [#981](https://leetcode.com/problems/time-based-key-value-store/) | Time Based Key-Value Store | Medium | [Read →](/posts/kotlin-dsa-binary-search-time-based-key-value-store/) |
+| [#4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Median of Two Sorted Arrays | Hard | [Read →](/posts/kotlin-dsa-binary-search-median-of-two-sorted-arrays/) |
+
+---
+
+## 🟢 Phase 5 — Linked List
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -65,7 +79,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔴 Phase 5 — Trees
+## 🔴 Phase 6 — Trees
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -75,7 +89,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🟣 Phase 6 — Graphs
+## 🟣 Phase 7 — Graphs
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -84,7 +98,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔶 Phase 7 — Dynamic Programming
+## 🔶 Phase 8 — Dynamic Programming
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
