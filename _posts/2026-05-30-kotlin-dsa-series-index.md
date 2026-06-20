@@ -69,7 +69,20 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🟢 Phase 5 — Linked List
+## 🟣 Phase 5 — Sliding Window
+
+| LC # | Problem | Difficulty | Post |
+|------|---------|------------|------|
+| [#121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time to Buy And Sell Stock | Easy | [Read →](/posts/kotlin-dsa-sliding-window-best-time-to-buy-and-sell-stock/) |
+| [#3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | Medium | [Read →](/posts/kotlin-dsa-sliding-window-longest-substring-without-repeating-characters/) |
+| [#424](https://leetcode.com/problems/longest-repeating-character-replacement/) | Longest Repeating Character Replacement | Medium | [Read →](/posts/kotlin-dsa-sliding-window-longest-repeating-character-replacement/) |
+| [#567](https://leetcode.com/problems/permutation-in-string/) | Permutation In String | Medium | [Read →](/posts/kotlin-dsa-sliding-window-permutation-in-string/) |
+| [#76](https://leetcode.com/problems/minimum-window-substring/) | Minimum Window Substring | Hard | [Read →](/posts/kotlin-dsa-sliding-window-minimum-window-substring/) |
+| [#239](https://leetcode.com/problems/sliding-window-maximum/) | Sliding Window Maximum | Hard | [Read →](/posts/kotlin-dsa-sliding-window-sliding-window-maximum/) |
+
+---
+
+## 🟢 Phase 6 — Linked List
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -79,7 +92,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔴 Phase 6 — Trees
+## 🔴 Phase 7 — Trees
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -89,7 +102,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🟣 Phase 7 — Graphs
+## 🟣 Phase 8 — Graphs
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -98,7 +111,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔶 Phase 8 — Dynamic Programming
+## 🔶 Phase 9 — Dynamic Programming
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
