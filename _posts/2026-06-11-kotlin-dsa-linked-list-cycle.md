@@ -6,7 +6,7 @@ tags: [linked-list-cycle, floyd, fast-slow-pointer, two-pointer, easy, leetcode,
 leetcode_number: 141
 leetcode_url: https://leetcode.com/problems/linked-list-cycle/
 difficulty: Easy
-permalink: /posts/kotlin-dsa-linkedlist-linked-list-cycle/
+permalink: /posts/kotlin-dsa-linked-list-cycle/
 hidden: true
 ---
 

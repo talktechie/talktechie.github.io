@@ -6,7 +6,7 @@ tags: [merge-two-sorted-lists, linked-list, recursion, easy, leetcode, leetcode-
 leetcode_number: 21
 leetcode_url: https://leetcode.com/problems/merge-two-sorted-lists/
 difficulty: Easy
-permalink: /posts/kotlin-dsa-linkedlist-merge-two-sorted-lists/
+permalink: /posts/kotlin-dsa-linked-list-merge-two-sorted-lists/
 hidden: true
 ---
 

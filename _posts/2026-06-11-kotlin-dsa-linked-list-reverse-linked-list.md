@@ -6,7 +6,7 @@ tags: [reverse-linked-list, linked-list, two-pointer, easy, leetcode, leetcode-2
 leetcode_number: 206
 leetcode_url: https://leetcode.com/problems/reverse-linked-list/
 difficulty: Easy
-permalink: /posts/kotlin-dsa-linkedlist-reverse-linked-list/
+permalink: /posts/kotlin-dsa-linked-list-reverse-linked-list/
 hidden: true
 ---
 
