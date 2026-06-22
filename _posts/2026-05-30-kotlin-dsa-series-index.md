@@ -85,10 +85,18 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 ## 🟢 Phase 6 — Linked List
 
 | LC # | Problem | Difficulty | Post |
-|------|---------|-----------|------|
-| [#206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | Easy | [Read →](/posts/kotlin-dsa-linkedlist-reverse-linked-list/) |
-| [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | Easy | [Read →](/posts/kotlin-dsa-linkedlist-merge-two-sorted-lists/) |
-| [#141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | [Read →](/posts/kotlin-dsa-linkedlist-linked-list-cycle/) |
+|------|---------|------------|------|
+| [#206](https://leetcode.com/problems/reverse-linked-list/) | Reverse Linked List | Easy | [Read →](/posts/kotlin-dsa-linked-list-reverse-linked-list/) |
+| [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | Easy | [Read →](/posts/kotlin-dsa-linked-list-merge-two-sorted-lists/) |
+| [#141](https://leetcode.com/problems/linked-list-cycle/) | Linked List Cycle | Easy | [Read →](/posts/kotlin-dsa-linked-list-cycle/) |
+| [#143](https://leetcode.com/problems/reorder-list/) | Reorder List | Medium | [Read →](/posts/kotlin-dsa-linked-list-reorder-list/) |
+| [#19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List | Medium | [Read →](/posts/kotlin-dsa-linked-list-remove-nth-node-from-end-of-list/) |
+| [#138](https://leetcode.com/problems/copy-list-with-random-pointer/) | Copy List With Random Pointer | Medium | [Read →](/posts/kotlin-dsa-linked-list-copy-list-with-random-pointer/) |
+| [#2](https://leetcode.com/problems/add-two-numbers/) | Add Two Numbers | Medium | [Read →](/posts/kotlin-dsa-linked-list-add-two-numbers/) |
+| [#287](https://leetcode.com/problems/find-the-duplicate-number/) | Find The Duplicate Number | Medium | [Read →](/posts/kotlin-dsa-linked-list-find-the-duplicate-number/) |
+| [#146](https://leetcode.com/problems/lru-cache/) | LRU Cache | Medium | [Read →](/posts/kotlin-dsa-linked-list-lru-cache/) |
+| [#23](https://leetcode.com/problems/merge-k-sorted-lists/) | Merge K Sorted Lists | Hard | [Read →](/posts/kotlin-dsa-linked-list-merge-k-sorted-lists/) |
+| [#25](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Reverse Nodes In K-Group | Hard | [Read →](/posts/kotlin-dsa-linked-list-reverse-nodes-in-k-group/) |
 
 ---
 
