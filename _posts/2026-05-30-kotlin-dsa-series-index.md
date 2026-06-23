@@ -103,10 +103,22 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 ## 🔴 Phase 7 — Trees
 
 | LC # | Problem | Difficulty | Post |
-|------|---------|-----------|------|
+|------|---------|------------|------|
 | [#226](https://leetcode.com/problems/invert-binary-tree/) | Invert Binary Tree | Easy | [Read →](/posts/kotlin-dsa-trees-invert-binary-tree/) |
-| [#104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree | Easy | [Read →](/posts/kotlin-dsa-trees-maximum-depth-binary-tree/) |
-| [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree | Medium | [Read →](/posts/kotlin-dsa-trees-validate-bst/) |
+| [#104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree | Easy | [Read →](/posts/kotlin-dsa-trees-maximum-depth-of-binary-tree/) |
+| [#543](https://leetcode.com/problems/diameter-of-binary-tree/) | Diameter of Binary Tree | Easy | [Read →](/posts/kotlin-dsa-trees-diameter-of-binary-tree/) |
+| [#110](https://leetcode.com/problems/balanced-binary-tree/) | Balanced Binary Tree | Easy | [Read →](/posts/kotlin-dsa-trees-balanced-binary-tree/) |
+| [#100](https://leetcode.com/problems/same-tree/) | Same Tree | Easy | [Read →](/posts/kotlin-dsa-trees-same-tree/) |
+| [#572](https://leetcode.com/problems/subtree-of-another-tree/) | Subtree of Another Tree | Easy | [Read →](/posts/kotlin-dsa-trees-subtree-of-another-tree/) |
+| [#235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Lowest Common Ancestor of a Binary Search Tree | Medium | [Read →](/posts/kotlin-dsa-trees-lowest-common-ancestor-of-a-binary-search-tree/) |
+| [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Binary Tree Level Order Traversal | Medium | [Read →](/posts/kotlin-dsa-trees-binary-tree-level-order-traversal/) |
+| [#199](https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree Right Side View | Medium | [Read →](/posts/kotlin-dsa-trees-binary-tree-right-side-view/) |
+| [#1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Count Good Nodes In Binary Tree | Medium | [Read →](/posts/kotlin-dsa-trees-count-good-nodes-in-binary-tree/) |
+| [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Validate Binary Search Tree | Medium | [Read →](/posts/kotlin-dsa-trees-validate-binary-search-tree/) |
+| [#230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Kth Smallest Element In a BST | Medium | [Read →](/posts/kotlin-dsa-trees-kth-smallest-element-in-a-bst/) |
+| [#105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Construct Binary Tree From Preorder And Inorder Traversal | Medium | [Read →](/posts/kotlin-dsa-trees-construct-binary-tree-from-preorder-and-inorder-traversal/) |
+| [#124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Binary Tree Maximum Path Sum | Hard | [Read →](/posts/kotlin-dsa-trees-binary-tree-maximum-path-sum/) |
+| [#297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Serialize And Deserialize Binary Tree | Hard | [Read →](/posts/kotlin-dsa-trees-serialize-and-deserialize-binary-tree/) |
 
 ---
 
