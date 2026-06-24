@@ -122,7 +122,17 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🟣 Phase 8 — Graphs
+## 🟤 Phase 8 — Trie
+
+| LC # | Problem | Difficulty | Post |
+|------|---------|------------|------|
+| [#208](https://leetcode.com/problems/implement-trie-prefix-tree/) | Implement Trie (Prefix Tree) | Medium | [Read →](/posts/kotlin-dsa-trie-implement-trie-prefix-tree/) |
+| [#211](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Design Add And Search Words Data Structure | Medium | [Read →](/posts/kotlin-dsa-trie-design-add-and-search-words-data-structure/) |
+| [#212](https://leetcode.com/problems/word-search-ii/) | Word Search II | Hard | [Read →](/posts/kotlin-dsa-trie-word-search-ii/) |
+
+---
+
+## 🟣 Phase 9 — Graphs
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -131,7 +141,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔶 Phase 9 — Dynamic Programming
+## 🔶 Phase 10 — Dynamic Programming
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
