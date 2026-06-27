@@ -146,7 +146,24 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🟣 Phase 10 — Graphs
+## 🟢 Phase 10 — Backtracking
+
+| LC # | Problem | Difficulty | Post |
+|------|---------|------------|------|
+| [#78](https://leetcode.com/problems/subsets/) | Subsets | Medium | [Read →](/posts/kotlin-dsa-backtracking-subsets/) |
+| [#39](https://leetcode.com/problems/combination-sum/) | Combination Sum | Medium | [Read →](/posts/kotlin-dsa-backtracking-combination-sum/) |
+| [#40](https://leetcode.com/problems/combination-sum-ii/) | Combination Sum II | Medium | [Read →](/posts/kotlin-dsa-backtracking-combination-sum-ii/) |
+| [#46](https://leetcode.com/problems/permutations/) | Permutations | Medium | [Read →](/posts/kotlin-dsa-backtracking-permutations/) |
+| [#90](https://leetcode.com/problems/subsets-ii/) | Subsets II | Medium | [Read →](/posts/kotlin-dsa-backtracking-subsets-ii/) |
+| [#22](https://leetcode.com/problems/generate-parentheses/) | Generate Parentheses | Medium | [Read →](/posts/kotlin-dsa-backtracking-generate-parentheses/) |
+| [#79](https://leetcode.com/problems/word-search/) | Word Search | Medium | [Read →](/posts/kotlin-dsa-backtracking-word-search/) |
+| [#131](https://leetcode.com/problems/palindrome-partitioning/) | Palindrome Partitioning | Medium | [Read →](/posts/kotlin-dsa-backtracking-palindrome-partitioning/) |
+| [#17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of a Phone Number | Medium | [Read →](/posts/kotlin-dsa-backtracking-letter-combinations-of-a-phone-number/) |
+| [#51](https://leetcode.com/problems/n-queens/) | N Queens | Hard | [Read →](/posts/kotlin-dsa-backtracking-n-queens/) |
+
+---
+
+## 🟣 Phase 11 — Graphs
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -155,7 +172,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔶 Phase 11 — Dynamic Programming
+## 🔶 Phase 12 — Dynamic Programming
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
