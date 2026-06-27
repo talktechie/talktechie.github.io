@@ -132,7 +132,21 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🟣 Phase 9 — Graphs
+## ⚪ Phase 9 — Heap / Priority Queue
+
+| LC # | Problem | Difficulty | Post |
+|------|---------|------------|------|
+| [#703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Kth Largest Element In a Stream | Easy | [Read →](/posts/kotlin-dsa-heap-kth-largest-element-in-a-stream/) |
+| [#1046](https://leetcode.com/problems/last-stone-weight/) | Last Stone Weight | Easy | [Read →](/posts/kotlin-dsa-heap-last-stone-weight/) |
+| [#973](https://leetcode.com/problems/k-closest-points-to-origin/) | K Closest Points to Origin | Medium | [Read →](/posts/kotlin-dsa-heap-k-closest-points-to-origin/) |
+| [#215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Kth Largest Element In An Array | Medium | [Read →](/posts/kotlin-dsa-heap-kth-largest-element-in-an-array/) |
+| [#621](https://leetcode.com/problems/task-scheduler/) | Task Scheduler | Medium | [Read →](/posts/kotlin-dsa-heap-task-scheduler/) |
+| [#355](https://leetcode.com/problems/design-twitter/) | Design Twitter | Medium | [Read →](/posts/kotlin-dsa-heap-design-twitter/) |
+| [#295](https://leetcode.com/problems/find-median-from-data-stream/) | Find Median From Data Stream | Hard | [Read →](/posts/kotlin-dsa-heap-find-median-from-data-stream/) |
+
+---
+
+## 🟣 Phase 10 — Graphs
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
@@ -141,7 +155,7 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔶 Phase 10 — Dynamic Programming
+## 🔶 Phase 11 — Dynamic Programming
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
