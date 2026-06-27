@@ -163,13 +163,23 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🟣 Phase 11 — Graphs
+## 🔵 Phase 11 — Graphs
 
 | LC # | Problem | Difficulty | Post |
-|------|---------|-----------|------|
+|------|---------|------------|------|
 | [#200](https://leetcode.com/problems/number-of-islands/) | Number of Islands | Medium | [Read →](/posts/kotlin-dsa-graphs-number-of-islands/) |
+| [#695](https://leetcode.com/problems/max-area-of-island/) | Max Area of Island | Medium | [Read →](/posts/kotlin-dsa-graphs-max-area-of-island/) |
 | [#133](https://leetcode.com/problems/clone-graph/) | Clone Graph | Medium | [Read →](/posts/kotlin-dsa-graphs-clone-graph/) |
-
+| [#286](https://leetcode.com/problems/walls-and-gates/) | Walls And Gates | Medium | [Read →](/posts/kotlin-dsa-graphs-walls-and-gates/) |
+| [#994](https://leetcode.com/problems/rotting-oranges/) | Rotting Oranges | Medium | [Read →](/posts/kotlin-dsa-graphs-rotting-oranges/) |
+| [#417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Pacific Atlantic Water Flow | Medium | [Read →](/posts/kotlin-dsa-graphs-pacific-atlantic-water-flow/) |
+| [#130](https://leetcode.com/problems/surrounded-regions/) | Surrounded Regions | Medium | [Read →](/posts/kotlin-dsa-graphs-surrounded-regions/) |
+| [#207](https://leetcode.com/problems/course-schedule/) | Course Schedule | Medium | [Read →](/posts/kotlin-dsa-graphs-course-schedule/) |
+| [#210](https://leetcode.com/problems/course-schedule-ii/) | Course Schedule II | Medium | [Read →](/posts/kotlin-dsa-graphs-course-schedule-ii/) |
+| [#261](https://leetcode.com/problems/graph-valid-tree/) | Graph Valid Tree | Medium | [Read →](/posts/kotlin-dsa-graphs-graph-valid-tree/) |
+| [#323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Number of Connected Components In An Undirected Graph | Medium | [Read →](/posts/kotlin-dsa-graphs-number-of-connected-components-in-an-undirected-graph/) |
+| [#684](https://leetcode.com/problems/redundant-connection/) | Redundant Connection | Medium | [Read →](/posts/kotlin-dsa-graphs-redundant-connection/) |
+| [#127](https://leetcode.com/problems/word-ladder/) | Word Ladder | Hard | [Read →](/posts/kotlin-dsa-graphs-word-ladder/) |
 ---
 
 ## 🔶 Phase 12 — Dynamic Programming
