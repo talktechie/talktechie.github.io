@@ -202,13 +202,44 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔶 Phase 13 — Dynamic Programming
+## 🔶 Phase 13 - Intervals
 
 | LC # | Problem | Difficulty | Post |
-|------|---------|-----------|------|
-| [#70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Easy | [Read →](/posts/kotlin-dsa-dp-climbing-stairs/) |
-| [#198](https://leetcode.com/problems/house-robber/) | House Robber | Medium | [Read →](/posts/kotlin-dsa-dp-house-robber/) |
-| [#322](https://leetcode.com/problems/coin-change/) | Coin Change | Medium | [Read →](/posts/kotlin-dsa-dp-coin-change/) |
+|------|---------|------------|------|
+| [#57](https://leetcode.com/problems/insert-interval/) | Insert Interval | Medium | [Read ->](/posts/kotlin-dsa-intervals-insert-interval/) |
+| [#56](https://leetcode.com/problems/merge-intervals/) | Merge Intervals | Medium | [Read ->](/posts/kotlin-dsa-intervals-merge-intervals/) |
+| [#435](https://leetcode.com/problems/non-overlapping-intervals/) | Non Overlapping Intervals | Medium | [Read ->](/posts/kotlin-dsa-intervals-non-overlapping-intervals/) |
+| [#252](https://leetcode.com/problems/meeting-rooms/) | Meeting Rooms | Easy | [Read ->](/posts/kotlin-dsa-intervals-meeting-rooms/) |
+| [#253](https://leetcode.com/problems/meeting-rooms-ii/) | Meeting Rooms II | Medium | [Read ->](/posts/kotlin-dsa-intervals-meeting-rooms-ii/) |
+| [#1851](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | Minimum Interval to Include Each Query | Hard | [Read ->](/posts/kotlin-dsa-intervals-minimum-interval-to-include-each-query/) |
+
+---
+
+## 🟣 Phase 14 - Greedy
+
+| LC # | Problem | Difficulty | Post |
+|------|---------|------------|------|
+| [#53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | Medium | [Read ->](/posts/kotlin-dsa-greedy-maximum-subarray/) |
+| [#55](https://leetcode.com/problems/jump-game/) | Jump Game | Medium | [Read ->](/posts/kotlin-dsa-greedy-jump-game/) |
+| [#45](https://leetcode.com/problems/jump-game-ii/) | Jump Game II | Medium | [Read ->](/posts/kotlin-dsa-greedy-jump-game-ii/) |
+| [#134](https://leetcode.com/problems/gas-station/) | Gas Station | Medium | [Read ->](/posts/kotlin-dsa-greedy-gas-station/) |
+| [#846](https://leetcode.com/problems/hand-of-straights/) | Hand of Straights | Medium | [Read ->](/posts/kotlin-dsa-greedy-hand-of-straights/) |
+| [#2382](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Merge Triplets to Form Target Triplet | Medium | [Read ->](/posts/kotlin-dsa-greedy-merge-triplets-to-form-target-triplet/) |
+| [#763](https://leetcode.com/problems/partition-labels/) | Partition Labels | Medium | [Read ->](/posts/kotlin-dsa-greedy-partition-labels/) |
+| [#678](https://leetcode.com/problems/valid-parenthesis-string/) | Valid Parenthesis String | Medium | [Read ->](/posts/kotlin-dsa-greedy-valid-parenthesis-string/) |
+
+---
+
+## 🟠 Phase 15 - Advanced Graphs
+
+| LC # | Problem | Difficulty | Post |
+|------|---------|------------|------|
+| [#743](https://leetcode.com/problems/network-delay-time/) | Network Delay Time | Medium | [Read ->](/posts/kotlin-dsa-advanced-graphs-network-delay-time/) |
+| [#332](https://leetcode.com/problems/reconstruct-itinerary/) | Reconstruct Itinerary | Hard | [Read ->](/posts/kotlin-dsa-advanced-graphs-reconstruct-itinerary/) |
+| [#1584](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Min Cost to Connect All Points | Medium | [Read ->](/posts/kotlin-dsa-advanced-graphs-min-cost-to-connect-all-points/) |
+| [#778](https://leetcode.com/problems/swimming-rising-water/) | Swim In Rising Water | Hard | [Read ->](/posts/kotlin-dsa-advanced-graphs-swim-in-rising-water/) |
+| [#269](https://leetcode.com/problems/alien-dictionary/) | Alien Dictionary | Hard | [Read ->](/posts/kotlin-dsa-advanced-graphs-alien-dictionary/) |
+| [#787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops | Medium | [Read ->](/posts/kotlin-dsa-advanced-graphs-cheapest-flights-within-k-stops/) |
 
 ---
 
