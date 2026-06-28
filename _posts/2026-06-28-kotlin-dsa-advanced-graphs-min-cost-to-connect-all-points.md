@@ -1,6 +1,6 @@
 ---
 title: "Advanced Graphs: Min Cost to Connect All Points — Kotlin Solution"
-date: 2026-06-29
+date: 2026-06-28
 categories: [Kotlin DSA, Advanced Graphs]
 tags: [min-cost-to-connect-all-points, graph, mst, prim, union-find, heap, medium, leetcode, leetcode-1584]
 leetcode_number: 1584

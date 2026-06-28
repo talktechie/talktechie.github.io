@@ -1,6 +1,6 @@
 ---
 title: "Advanced Graphs: Swim In Rising Water — Kotlin Solution"
-date: 2026-06-29
+date: 2026-06-28
 categories: [Kotlin DSA, Advanced Graphs]
 tags: [swim-in-rising-water, graph, heap, dijkstra, binary-search, matrix, hard, leetcode, leetcode-778]
 leetcode_number: 778

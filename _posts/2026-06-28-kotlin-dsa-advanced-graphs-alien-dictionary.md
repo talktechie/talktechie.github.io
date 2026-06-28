@@ -1,6 +1,6 @@
 ---
 title: "Advanced Graphs: Alien Dictionary — Kotlin Solution"
-date: 2026-06-29
+date: 2026-06-28
 categories: [Kotlin DSA, Advanced Graphs]
 tags: [alien-dictionary, graph, topological-sort, dfs, bfs, hard, leetcode]
 leetcode_number: 269

@@ -1,6 +1,6 @@
 ---
 title: "Advanced Graphs: Cheapest Flights Within K Stops — Kotlin Solution"
-date: 2026-06-29
+date: 2026-06-28
 categories: [Kotlin DSA, Advanced Graphs]
 tags: [cheapest-flights-within-k-stops, graph, bellman-ford, dijkstra, medium, leetcode, leetcode-787]
 leetcode_number: 787
