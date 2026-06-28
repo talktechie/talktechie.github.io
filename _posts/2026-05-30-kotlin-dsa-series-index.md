@@ -187,18 +187,18 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|------------|------|
-| [#70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Easy | [Read ->](/posts/kotlin-dsa-dp-climbing-stairs/) |
-| [#746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy | [Read ->](/posts/kotlin-dsa-dp-min-cost-climbing-stairs/) |
-| [#198](https://leetcode.com/problems/house-robber/) | House Robber | Medium | [Read ->](/posts/kotlin-dsa-dp-house-robber/) |
-| [#213](https://leetcode.com/problems/house-robber-ii/) | House Robber II | Medium | [Read ->](/posts/kotlin-dsa-dp-house-robber-ii/) |
-| [#5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | Medium | [Read ->](/posts/kotlin-dsa-dp-longest-palindromic-substring/) |
-| [#647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | Medium | [Read ->](/posts/kotlin-dsa-dp-palindromic-substrings/) |
-| [#91](https://leetcode.com/problems/decode-ways/) | Decode Ways | Medium | [Read ->](/posts/kotlin-dsa-dp-decode-ways/) |
-| [#322](https://leetcode.com/problems/coin-change/) | Coin Change | Medium | [Read ->](/posts/kotlin-dsa-dp-coin-change/) |
-| [#152](https://leetcode.com/problems/maximum-product-subarray/) | Maximum Product Subarray | Medium | [Read ->](/posts/kotlin-dsa-dp-maximum-product-subarray/) |
-| [#139](https://leetcode.com/problems/word-break/) | Word Break | Medium | [Read ->](/posts/kotlin-dsa-dp-word-break/) |
-| [#300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Medium | [Read ->](/posts/kotlin-dsa-dp-longest-increasing-subsequence/) |
-| [#416](https://leetcode.com/problems/partition-equal-subset-sum/) | Partition Equal Subset Sum | Medium | [Read ->](/posts/kotlin-dsa-dp-partition-equal-subset-sum/) |
+| [#70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Easy | [Read →](/posts/kotlin-dsa-dp-climbing-stairs/) |
+| [#746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy | [Read →](/posts/kotlin-dsa-dp-min-cost-climbing-stairs/) |
+| [#198](https://leetcode.com/problems/house-robber/) | House Robber | Medium | [Read →](/posts/kotlin-dsa-dp-house-robber/) |
+| [#213](https://leetcode.com/problems/house-robber-ii/) | House Robber II | Medium | [Read →](/posts/kotlin-dsa-dp-house-robber-ii/) |
+| [#5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | Medium | [Read →](/posts/kotlin-dsa-dp-longest-palindromic-substring/) |
+| [#647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | Medium | [Read →](/posts/kotlin-dsa-dp-palindromic-substrings/) |
+| [#91](https://leetcode.com/problems/decode-ways/) | Decode Ways | Medium | [Read →](/posts/kotlin-dsa-dp-decode-ways/) |
+| [#322](https://leetcode.com/problems/coin-change/) | Coin Change | Medium | [Read →](/posts/kotlin-dsa-dp-coin-change/) |
+| [#152](https://leetcode.com/problems/maximum-product-subarray/) | Maximum Product Subarray | Medium | [Read →](/posts/kotlin-dsa-dp-maximum-product-subarray/) |
+| [#139](https://leetcode.com/problems/word-break/) | Word Break | Medium | [Read →](/posts/kotlin-dsa-dp-word-break/) |
+| [#300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Medium | [Read →](/posts/kotlin-dsa-dp-longest-increasing-subsequence/) |
+| [#416](https://leetcode.com/problems/partition-equal-subset-sum/) | Partition Equal Subset Sum | Medium | [Read →](/posts/kotlin-dsa-dp-partition-equal-subset-sum/) |
 
 ---
 
@@ -206,12 +206,12 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|------------|------|
-| [#57](https://leetcode.com/problems/insert-interval/) | Insert Interval | Medium | [Read ->](/posts/kotlin-dsa-intervals-insert-interval/) |
-| [#56](https://leetcode.com/problems/merge-intervals/) | Merge Intervals | Medium | [Read ->](/posts/kotlin-dsa-intervals-merge-intervals/) |
-| [#435](https://leetcode.com/problems/non-overlapping-intervals/) | Non Overlapping Intervals | Medium | [Read ->](/posts/kotlin-dsa-intervals-non-overlapping-intervals/) |
-| [#252](https://leetcode.com/problems/meeting-rooms/) | Meeting Rooms | Easy | [Read ->](/posts/kotlin-dsa-intervals-meeting-rooms/) |
-| [#253](https://leetcode.com/problems/meeting-rooms-ii/) | Meeting Rooms II | Medium | [Read ->](/posts/kotlin-dsa-intervals-meeting-rooms-ii/) |
-| [#1851](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | Minimum Interval to Include Each Query | Hard | [Read ->](/posts/kotlin-dsa-intervals-minimum-interval-to-include-each-query/) |
+| [#57](https://leetcode.com/problems/insert-interval/) | Insert Interval | Medium | [Read →](/posts/kotlin-dsa-intervals-insert-interval/) |
+| [#56](https://leetcode.com/problems/merge-intervals/) | Merge Intervals | Medium | [Read →](/posts/kotlin-dsa-intervals-merge-intervals/) |
+| [#435](https://leetcode.com/problems/non-overlapping-intervals/) | Non Overlapping Intervals | Medium | [Read →](/posts/kotlin-dsa-intervals-non-overlapping-intervals/) |
+| [#252](https://leetcode.com/problems/meeting-rooms/) | Meeting Rooms | Easy | [Read →](/posts/kotlin-dsa-intervals-meeting-rooms/) |
+| [#253](https://leetcode.com/problems/meeting-rooms-ii/) | Meeting Rooms II | Medium | [Read →](/posts/kotlin-dsa-intervals-meeting-rooms-ii/) |
+| [#1851](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | Minimum Interval to Include Each Query | Hard | [Read →](/posts/kotlin-dsa-intervals-minimum-interval-to-include-each-query/) |
 
 ---
 
@@ -219,14 +219,14 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|------------|------|
-| [#53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | Medium | [Read ->](/posts/kotlin-dsa-greedy-maximum-subarray/) |
-| [#55](https://leetcode.com/problems/jump-game/) | Jump Game | Medium | [Read ->](/posts/kotlin-dsa-greedy-jump-game/) |
-| [#45](https://leetcode.com/problems/jump-game-ii/) | Jump Game II | Medium | [Read ->](/posts/kotlin-dsa-greedy-jump-game-ii/) |
-| [#134](https://leetcode.com/problems/gas-station/) | Gas Station | Medium | [Read ->](/posts/kotlin-dsa-greedy-gas-station/) |
-| [#846](https://leetcode.com/problems/hand-of-straights/) | Hand of Straights | Medium | [Read ->](/posts/kotlin-dsa-greedy-hand-of-straights/) |
-| [#2382](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Merge Triplets to Form Target Triplet | Medium | [Read ->](/posts/kotlin-dsa-greedy-merge-triplets-to-form-target-triplet/) |
-| [#763](https://leetcode.com/problems/partition-labels/) | Partition Labels | Medium | [Read ->](/posts/kotlin-dsa-greedy-partition-labels/) |
-| [#678](https://leetcode.com/problems/valid-parenthesis-string/) | Valid Parenthesis String | Medium | [Read ->](/posts/kotlin-dsa-greedy-valid-parenthesis-string/) |
+| [#53](https://leetcode.com/problems/maximum-subarray/) | Maximum Subarray | Medium | [Read →](/posts/kotlin-dsa-greedy-maximum-subarray/) |
+| [#55](https://leetcode.com/problems/jump-game/) | Jump Game | Medium | [Read →](/posts/kotlin-dsa-greedy-jump-game/) |
+| [#45](https://leetcode.com/problems/jump-game-ii/) | Jump Game II | Medium | [Read →](/posts/kotlin-dsa-greedy-jump-game-ii/) |
+| [#134](https://leetcode.com/problems/gas-station/) | Gas Station | Medium | [Read →](/posts/kotlin-dsa-greedy-gas-station/) |
+| [#846](https://leetcode.com/problems/hand-of-straights/) | Hand of Straights | Medium | [Read →](/posts/kotlin-dsa-greedy-hand-of-straights/) |
+| [#2382](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Merge Triplets to Form Target Triplet | Medium | [Read →](/posts/kotlin-dsa-greedy-merge-triplets-to-form-target-triplet/) |
+| [#763](https://leetcode.com/problems/partition-labels/) | Partition Labels | Medium | [Read →](/posts/kotlin-dsa-greedy-partition-labels/) |
+| [#678](https://leetcode.com/problems/valid-parenthesis-string/) | Valid Parenthesis String | Medium | [Read →](/posts/kotlin-dsa-greedy-valid-parenthesis-string/) |
 
 ---
 
@@ -234,12 +234,12 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|------------|------|
-| [#743](https://leetcode.com/problems/network-delay-time/) | Network Delay Time | Medium | [Read ->](/posts/kotlin-dsa-advanced-graphs-network-delay-time/) |
-| [#332](https://leetcode.com/problems/reconstruct-itinerary/) | Reconstruct Itinerary | Hard | [Read ->](/posts/kotlin-dsa-advanced-graphs-reconstruct-itinerary/) |
-| [#1584](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Min Cost to Connect All Points | Medium | [Read ->](/posts/kotlin-dsa-advanced-graphs-min-cost-to-connect-all-points/) |
-| [#778](https://leetcode.com/problems/swimming-rising-water/) | Swim In Rising Water | Hard | [Read ->](/posts/kotlin-dsa-advanced-graphs-swim-in-rising-water/) |
-| [#269](https://leetcode.com/problems/alien-dictionary/) | Alien Dictionary | Hard | [Read ->](/posts/kotlin-dsa-advanced-graphs-alien-dictionary/) |
-| [#787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops | Medium | [Read ->](/posts/kotlin-dsa-advanced-graphs-cheapest-flights-within-k-stops/) |
+| [#743](https://leetcode.com/problems/network-delay-time/) | Network Delay Time | Medium | [Read →](/posts/kotlin-dsa-advanced-graphs-network-delay-time/) |
+| [#332](https://leetcode.com/problems/reconstruct-itinerary/) | Reconstruct Itinerary | Hard | [Read →](/posts/kotlin-dsa-advanced-graphs-reconstruct-itinerary/) |
+| [#1584](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Min Cost to Connect All Points | Medium | [Read →](/posts/kotlin-dsa-advanced-graphs-min-cost-to-connect-all-points/) |
+| [#778](https://leetcode.com/problems/swimming-rising-water/) | Swim In Rising Water | Hard | [Read →](/posts/kotlin-dsa-advanced-graphs-swim-in-rising-water/) |
+| [#269](https://leetcode.com/problems/alien-dictionary/) | Alien Dictionary | Hard | [Read →](/posts/kotlin-dsa-advanced-graphs-alien-dictionary/) |
+| [#787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Cheapest Flights Within K Stops | Medium | [Read →](/posts/kotlin-dsa-advanced-graphs-cheapest-flights-within-k-stops/) |
 
 ---
 
