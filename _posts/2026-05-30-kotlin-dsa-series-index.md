@@ -183,7 +183,26 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
-## 🔶 Phase 12 — Dynamic Programming
+## 🟡 Phase 12 - 1-D Dynamic Programming
+
+| LC # | Problem | Difficulty | Post |
+|------|---------|------------|------|
+| [#70](https://leetcode.com/problems/climbing-stairs/) | Climbing Stairs | Easy | [Read ->](/posts/kotlin-dsa-dp-climbing-stairs/) |
+| [#746](https://leetcode.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | Easy | [Read ->](/posts/kotlin-dsa-dp-min-cost-climbing-stairs/) |
+| [#198](https://leetcode.com/problems/house-robber/) | House Robber | Medium | [Read ->](/posts/kotlin-dsa-dp-house-robber/) |
+| [#213](https://leetcode.com/problems/house-robber-ii/) | House Robber II | Medium | [Read ->](/posts/kotlin-dsa-dp-house-robber-ii/) |
+| [#5](https://leetcode.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | Medium | [Read ->](/posts/kotlin-dsa-dp-longest-palindromic-substring/) |
+| [#647](https://leetcode.com/problems/palindromic-substrings/) | Palindromic Substrings | Medium | [Read ->](/posts/kotlin-dsa-dp-palindromic-substrings/) |
+| [#91](https://leetcode.com/problems/decode-ways/) | Decode Ways | Medium | [Read ->](/posts/kotlin-dsa-dp-decode-ways/) |
+| [#322](https://leetcode.com/problems/coin-change/) | Coin Change | Medium | [Read ->](/posts/kotlin-dsa-dp-coin-change/) |
+| [#152](https://leetcode.com/problems/maximum-product-subarray/) | Maximum Product Subarray | Medium | [Read ->](/posts/kotlin-dsa-dp-maximum-product-subarray/) |
+| [#139](https://leetcode.com/problems/word-break/) | Word Break | Medium | [Read ->](/posts/kotlin-dsa-dp-word-break/) |
+| [#300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Medium | [Read ->](/posts/kotlin-dsa-dp-longest-increasing-subsequence/) |
+| [#416](https://leetcode.com/problems/partition-equal-subset-sum/) | Partition Equal Subset Sum | Medium | [Read ->](/posts/kotlin-dsa-dp-partition-equal-subset-sum/) |
+
+---
+
+## 🔶 Phase 13 — Dynamic Programming
 
 | LC # | Problem | Difficulty | Post |
 |------|---------|-----------|------|
