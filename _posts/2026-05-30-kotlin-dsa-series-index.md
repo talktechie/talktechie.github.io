@@ -243,4 +243,22 @@ Not Java translated to `.kt` — real Kotlin the way it's meant to be written.
 
 ---
 
+## 🟤 Phase 16 - 2-D Dynamic Programming
+
+| LC # | Problem | Difficulty | Post |
+|------|---------|------------|------|
+| [#62](https://leetcode.com/problems/unique-paths/) | Unique Paths | Medium | [Read →](/posts/kotlin-dsa-2d-dp-unique-paths/) |
+| [#1143](https://leetcode.com/problems/longest-common-subsequence/) | Longest Common Subsequence | Medium | [Read →](/posts/kotlin-dsa-2d-dp-longest-common-subsequence/) |
+| [#309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Best Time to Buy And Sell Stock With Cooldown | Medium | [Read →](/posts/kotlin-dsa-2d-dp-best-time-to-buy-and-sell-stock-with-cooldown/) |
+| [#518](https://leetcode.com/problems/coin-change-ii/) | Coin Change II | Medium | [Read →](/posts/kotlin-dsa-2d-dp-coin-change-ii/) |
+| [#494](https://leetcode.com/problems/target-sum/) | Target Sum | Medium | [Read →](/posts/kotlin-dsa-2d-dp-target-sum/) |
+| [#97](https://leetcode.com/problems/interleaving-string/) | Interleaving String | Medium | [Read →](/posts/kotlin-dsa-2d-dp-interleaving-string/) |
+| [#329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Longest Increasing Path In a Matrix | Hard | [Read →](/posts/kotlin-dsa-2d-dp-longest-increasing-path-in-a-matrix/) |
+| [#115](https://leetcode.com/problems/distinct-subsequences/) | Distinct Subsequences | Hard | [Read →](/posts/kotlin-dsa-2d-dp-distinct-subsequences/) |
+| [#72](https://leetcode.com/problems/edit-distance/) | Edit Distance | Medium | [Read →](/posts/kotlin-dsa-2d-dp-edit-distance/) |
+| [#312](https://leetcode.com/problems/burst-balloons/) | Burst Balloons | Hard | [Read →](/posts/kotlin-dsa-2d-dp-burst-balloons/) |
+| [#10](https://leetcode.com/problems/regular-expression-matching/) | Regular Expression Matching | Hard | [Read →](/posts/kotlin-dsa-2d-dp-regular-expression-matching/) |
+
+---
+
 *This index is updated every time a new post is published. Bookmark this page.*
