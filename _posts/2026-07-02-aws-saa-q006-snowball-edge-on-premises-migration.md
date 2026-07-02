@@ -4,6 +4,7 @@ date: 2026-07-02 08:25:00 +0530
 categories: [AWS SAA, Design Cost-Optimized Architectures]
 tags: [aws, snowball, s3, migration, saa-c03, storage]
 description: "A company's on-premises NFS storage holds 70 TB of large video files that must move to S3 as fast as possible while using the least network bandwidth."
+hidden: true
 ---
 
 ## Problem Info

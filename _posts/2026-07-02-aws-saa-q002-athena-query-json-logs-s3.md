@@ -4,6 +4,7 @@ date: 2026-07-02 08:05:00 +0530
 categories: [AWS SAA, Design High-Performing Architectures]
 tags: [aws, athena, s3, saa-c03, analytics]
 description: "A company needs to run simple, on-demand SQL queries against JSON application logs stored in S3 with the least operational overhead."
+hidden: true
 ---
 
 ## Problem Info

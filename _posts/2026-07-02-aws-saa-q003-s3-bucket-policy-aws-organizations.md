@@ -4,6 +4,7 @@ date: 2026-07-02 08:10:00 +0530
 categories: [AWS SAA, Design Secure Architectures]
 tags: [aws, s3, iam, organizations, saa-c03, security]
 description: "Limit access to an S3 bucket in the management account to only users from accounts within the AWS Organization, with the least operational overhead."
+hidden: true
 ---
 
 ## Problem Info

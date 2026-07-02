@@ -4,6 +4,7 @@ date: 2026-07-02 08:15:00 +0530
 categories: [AWS SAA, Design Secure Architectures]
 tags: [aws, vpc, s3, vpc-endpoint, saa-c03, networking]
 description: "An EC2 instance in a VPC needs to reach an S3 bucket to process logs, without any route to the public internet."
+hidden: true
 ---
 
 ## Problem Info

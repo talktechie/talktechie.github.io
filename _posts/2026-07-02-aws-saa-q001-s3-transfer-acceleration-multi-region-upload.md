@@ -4,6 +4,7 @@ date: 2026-07-02 08:00:00 +0530
 categories: [AWS SAA, Design High-Performing Architectures]
 tags: [aws, s3, transfer-acceleration, saa-c03, storage]
 description: "A company collects 500 GB/day per site from cities across continents and needs it aggregated into a single S3 bucket as fast as possible with minimal operational complexity."
+hidden: true
 ---
 
 ## Problem Info

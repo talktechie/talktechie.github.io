@@ -4,6 +4,7 @@ date: 2026-07-02 08:45:00 +0530
 categories: [AWS SAA, Design Resilient Architectures]
 tags: [aws, api-gateway, sqs, sqs-fifo, lambda, saa-c03]
 description: "An ecommerce app sends new order events to API Gateway and must guarantee orders are processed in the same order they were received."
+hidden: true
 ---
 
 ## Problem Info

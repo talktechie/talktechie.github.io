@@ -4,6 +4,7 @@ date: 2026-07-02 08:30:00 +0530
 categories: [AWS SAA, Design Resilient Architectures]
 tags: [aws, sns, sqs, saa-c03, decoupling, messaging]
 description: "Dozens of microservices need to consume the same bursty stream of ingested messages, which can spike to 100,000 messages per second."
+hidden: true
 ---
 
 ## Problem Info

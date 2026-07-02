@@ -4,6 +4,7 @@ date: 2026-07-02 08:40:00 +0530
 categories: [AWS SAA, Design Cost-Optimized Architectures]
 tags: [aws, storage-gateway, s3, lifecycle-policy, saa-c03, hybrid]
 description: "An SMB file server is running out of capacity, but the most recently created files need low-latency access while older files can move to cheaper storage automatically."
+hidden: true
 ---
 
 ## Problem Info

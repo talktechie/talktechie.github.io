@@ -4,6 +4,7 @@ date: 2026-07-02 08:20:00 +0530
 categories: [AWS SAA, Design Resilient Architectures]
 tags: [aws, efs, ebs, ec2, alb, saa-c03, storage]
 description: "After scaling a web app to two EC2 instances across Availability Zones behind an ALB, users only ever see half of their uploaded documents at a time."
+hidden: true
 ---
 
 ## Problem Info

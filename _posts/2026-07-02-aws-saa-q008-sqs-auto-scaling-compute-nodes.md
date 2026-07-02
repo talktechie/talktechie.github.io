@@ -4,6 +4,7 @@ date: 2026-07-02 08:35:00 +0530
 categories: [AWS SAA, Design Resilient Architectures]
 tags: [aws, sqs, auto-scaling, ec2, saa-c03, decoupling]
 description: "A legacy application with a primary server coordinating jobs across compute nodes needs a modern, resilient, and scalable AWS architecture."
+hidden: true
 ---
 
 ## Problem Info
