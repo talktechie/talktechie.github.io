@@ -14,7 +14,7 @@ This series is both a public study resource and my own SAA prep log. I add **10 
 > 🟢 New here? Start with Domain 1 and work down — the domains roughly follow the weight they carry on the real exam.
 {: .prompt-tip }
 
-**Progress: 20 / 650+ questions published**
+**Progress: 30 / 650+ questions published**
 
 ---
 
@@ -41,6 +41,9 @@ This series is both a public study resource and my own SAA prep log. I add **10 
 | Q16 | Visualize a data lake with tiered access (management vs everyone else) | QuickSight | [Read more →](/posts/aws-saa-q016-quicksight-data-lake-visualization-access/) |
 | Q17 | Let EC2 instances access an S3 bucket the right way | IAM Role | [Read more →](/posts/aws-saa-q017-iam-role-ec2-s3-access/) |
 | Q19 | Route all inbound traffic through a third-party firewall appliance | Gateway Load Balancer | [Read more →](/posts/aws-saa-q019-gateway-load-balancer-appliance-inspection/) |
+| Q26 | Catch unauthorized configuration changes on S3 buckets | AWS Config | [Read more →](/posts/aws-saa-q026-aws-config-s3-unauthorized-changes/) |
+| Q27 | Share a CloudWatch dashboard with a user who has no AWS account | CloudWatch Dashboard Sharing | [Read more →](/posts/aws-saa-q027-cloudwatch-dashboard-sharing-least-privilege/) |
+| Q28 | Org-wide SSO while keeping on-prem Active Directory as the source | AWS SSO + AD Trust | [Read more →](/posts/aws-saa-q028-aws-sso-active-directory-trust/) |
 
 ## 🛡️ Domain 2 — Design Resilient Architectures
 
@@ -51,12 +54,15 @@ This series is both a public study resource and my own SAA prep log. I add **10 
 | Q8 | Modernize a primary/worker-node batch platform | SQS + Auto Scaling | [Read more →](/posts/aws-saa-q008-sqs-auto-scaling-compute-nodes/) |
 | Q10 | Process ecommerce orders strictly in received order | SQS FIFO + API Gateway | [Read more →](/posts/aws-saa-q010-api-gateway-sqs-fifo-order-processing/) |
 | Q18 | Build a durable, stateless image-compression microservice (Choose Two) | SQS + Lambda | [Read more →](/posts/aws-saa-q018-sqs-lambda-image-processing-microservice/) |
+| Q29 | Route a multi-Region UDP VoIP service to the lowest-latency Region with failover | Global Accelerator + NLB | [Read more →](/posts/aws-saa-q029-global-accelerator-nlb-voip-multi-region/) |
 
 ## ⚡ Domain 3 — Design High-Performing Architectures
 
 | # | Question | Core Service | Link |
 |---|---|---|---|
 | Q1 | Aggregate 500 GB/day from global sites into one S3 bucket fast | S3 Transfer Acceleration | [Read more →](/posts/aws-saa-q001-s3-transfer-acceleration-multi-region-upload/) |
+| Q21 | Serverless flash-sale site handling millions of requests/hour | S3 + CloudFront + Lambda + DynamoDB | [Read more →](/posts/aws-saa-q021-serverless-flash-sale-site/) |
+| Q25 | Fix a Lambda function hitting concurrency quotas under load | Lambda + SQS (split functions) | [Read more →](/posts/aws-saa-q025-split-lambda-sqs-aurora-scaling/) |
 | Q2 | Ad-hoc SQL queries on JSON logs in S3, least overhead | Athena | [Read more →](/posts/aws-saa-q002-athena-query-json-logs-s3/) |
 | Q12 | Reduce latency for static and dynamic content globally | CloudFront (multi-origin) | [Read more →](/posts/aws-saa-q012-cloudfront-multi-origin-s3-alb/) |
 | Q14 | Auto-scale a read-heavy database while keeping high availability | Aurora Auto Scaling | [Read more →](/posts/aws-saa-q014-aurora-multi-az-auto-scaling-replicas/) |
@@ -68,6 +74,10 @@ This series is both a public study resource and my own SAA prep log. I add **10 
 |---|---|---|---|
 | Q6 | Migrate 70 TB of NFS video files to S3, minimal bandwidth | Snowball Edge | [Read more →](/posts/aws-saa-q006-snowball-edge-on-premises-migration/) |
 | Q9 | Extend on-prem SMB storage with lifecycle management | S3 File Gateway | [Read more →](/posts/aws-saa-q009-s3-file-gateway-lifecycle-policy/) |
+| Q22 | Store media files with unpredictable access patterns at minimum cost | S3 Intelligent-Tiering | [Read more →](/posts/aws-saa-q022-s3-intelligent-tiering-unpredictable-access/) |
+| Q23 | Keep backup files forever at the lowest possible cost | S3 Glacier Deep Archive | [Read more →](/posts/aws-saa-q023-s3-lifecycle-glacier-deep-archive/) |
+| Q24 | Diagnose an EC2 cost spike from unwanted vertical scaling | Cost Explorer | [Read more →](/posts/aws-saa-q024-cost-explorer-ec2-cost-analysis/) |
+| Q30 | Cut costs on a database used only 48 hours a month | RDS Snapshot + Terminate | [Read more →](/posts/aws-saa-q030-rds-snapshot-terminate-cost-savings/) |
 
 ---
 
