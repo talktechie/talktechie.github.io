@@ -14,7 +14,7 @@ This series is both a public study resource and my own SAA prep log. I add **10 
 > 🟢 New here? Start with Domain 1 and work down — the domains roughly follow the weight they carry on the real exam.
 {: .prompt-tip }
 
-**Progress: 10 / 650+ questions published**
+**Progress: 20 / 650+ questions published**
 
 ---
 
@@ -35,6 +35,12 @@ This series is both a public study resource and my own SAA prep log. I add **10 
 |---|---|---|---|
 | Q3 | Restrict an S3 bucket to only accounts inside an AWS Organization | S3 + Organizations | [Read more →](/posts/aws-saa-q003-s3-bucket-policy-aws-organizations/) |
 | Q4 | Give an EC2 instance private access to S3 with no internet | VPC Gateway Endpoint | [Read more →](/posts/aws-saa-q004-vpc-gateway-endpoint-s3-private-access/) |
+| Q11 | Minimize operational overhead of EC2-to-Aurora credential management | Secrets Manager | [Read more →](/posts/aws-saa-q011-secrets-manager-ec2-aurora-credentials/) |
+| Q13 | Rotate RDS credentials across multiple Regions, least overhead | Secrets Manager (multi-Region) | [Read more →](/posts/aws-saa-q013-secrets-manager-multi-region-rotation/) |
+| Q15 | Replicate an on-prem inspection server's traffic filtering in AWS | AWS Network Firewall | [Read more →](/posts/aws-saa-q015-aws-network-firewall-vpc-inspection/) |
+| Q16 | Visualize a data lake with tiered access (management vs everyone else) | QuickSight | [Read more →](/posts/aws-saa-q016-quicksight-data-lake-visualization-access/) |
+| Q17 | Let EC2 instances access an S3 bucket the right way | IAM Role | [Read more →](/posts/aws-saa-q017-iam-role-ec2-s3-access/) |
+| Q19 | Route all inbound traffic through a third-party firewall appliance | Gateway Load Balancer | [Read more →](/posts/aws-saa-q019-gateway-load-balancer-appliance-inspection/) |
 
 ## 🛡️ Domain 2 — Design Resilient Architectures
 
@@ -44,6 +50,7 @@ This series is both a public study resource and my own SAA prep log. I add **10 
 | Q7 | Fan out bursty messages (100k/sec) to many consumers | SNS + SQS | [Read more →](/posts/aws-saa-q007-sns-sqs-fanout-decoupling/) |
 | Q8 | Modernize a primary/worker-node batch platform | SQS + Auto Scaling | [Read more →](/posts/aws-saa-q008-sqs-auto-scaling-compute-nodes/) |
 | Q10 | Process ecommerce orders strictly in received order | SQS FIFO + API Gateway | [Read more →](/posts/aws-saa-q010-api-gateway-sqs-fifo-order-processing/) |
+| Q18 | Build a durable, stateless image-compression microservice (Choose Two) | SQS + Lambda | [Read more →](/posts/aws-saa-q018-sqs-lambda-image-processing-microservice/) |
 
 ## ⚡ Domain 3 — Design High-Performing Architectures
 
@@ -51,6 +58,9 @@ This series is both a public study resource and my own SAA prep log. I add **10 
 |---|---|---|---|
 | Q1 | Aggregate 500 GB/day from global sites into one S3 bucket fast | S3 Transfer Acceleration | [Read more →](/posts/aws-saa-q001-s3-transfer-acceleration-multi-region-upload/) |
 | Q2 | Ad-hoc SQL queries on JSON logs in S3, least overhead | Athena | [Read more →](/posts/aws-saa-q002-athena-query-json-logs-s3/) |
+| Q12 | Reduce latency for static and dynamic content globally | CloudFront (multi-origin) | [Read more →](/posts/aws-saa-q012-cloudfront-multi-origin-s3-alb/) |
+| Q14 | Auto-scale a read-heavy database while keeping high availability | Aurora Auto Scaling | [Read more →](/posts/aws-saa-q014-aurora-multi-az-auto-scaling-replicas/) |
+| Q20 | Clone large EBS volumes fast with consistently high I/O | EBS Fast Snapshot Restore | [Read more →](/posts/aws-saa-q020-ebs-fast-snapshot-restore-cloning/) |
 
 ## 💰 Domain 4 — Design Cost-Optimized Architectures
 
